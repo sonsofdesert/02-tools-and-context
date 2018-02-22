@@ -21,6 +21,7 @@
 - Contains results array
 - Runs a for loop through the array. Returns results. 
 
+
 #function min()
 + Has an arity of 1 (arr)
 + Data type is an array of integers
